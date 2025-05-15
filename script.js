@@ -3,10 +3,12 @@ const URL_API = "https://script.google.com/macros/s/AKfycbyMP2zG5Rtb2fTAS-tlE0iR
 
 let datos = [];
 
-// Cargar departamentos al iniciar
+// 🔄 Cargar datos desde la API (departamento, aliado, punto)
 async function cargarDatos() {
   try {
     const res = await fetch(URL_API);
+    if (!res.ok) throw new Error("Error HTTP al cargar datos");
+
     datos = await res.json();
 
     const departamentos = [...new Set(datos.map(d => d.departamento))];
@@ -24,18 +26,20 @@ async function cargarDatos() {
   }
 }
 
+// 🚀 Ejecutar al cargar la página
 document.addEventListener("DOMContentLoaded", cargarDatos);
 
-// Cambiar aliados cuando cambia departamento
+// ▶️ Cambia aliados al seleccionar un departamento
 document.getElementById('departamento').addEventListener('change', function () {
-  const seleccionado = this.value;
+  const dep = this.value;
   const aliados = [...new Set(datos
-    .filter(d => d.departamento === seleccionado)
+    .filter(d => d.departamento === dep)
     .map(d => d.aliado))];
 
   const aliadoSelect = document.getElementById('aliado');
   aliadoSelect.innerHTML = '<option value="">Seleccione...</option>';
   aliadoSelect.disabled = false;
+
   aliados.forEach(aliado => {
     const opt = document.createElement('option');
     opt.value = aliado;
@@ -43,13 +47,12 @@ document.getElementById('departamento').addEventListener('change', function () {
     aliadoSelect.appendChild(opt);
   });
 
-  // Reset punto de venta
   const punto = document.getElementById('punto');
   punto.innerHTML = '<option value="">Seleccione...</option>';
   punto.disabled = true;
 });
 
-// Cambiar puntos cuando cambia aliado
+// ▶️ Cambia puntos al seleccionar un aliado
 document.getElementById('aliado').addEventListener('change', function () {
   const dep = document.getElementById('departamento').value;
   const aliado = this.value;
@@ -60,6 +63,7 @@ document.getElementById('aliado').addEventListener('change', function () {
   const puntoSelect = document.getElementById('punto');
   puntoSelect.innerHTML = '<option value="">Seleccione...</option>';
   puntoSelect.disabled = false;
+
   puntos.forEach(pv => {
     const opt = document.createElement('option');
     opt.value = pv;
@@ -68,7 +72,7 @@ document.getElementById('aliado').addEventListener('change', function () {
   });
 });
 
-// Envío del formulario
+// 📤 Enviar formulario y guardar en hoja "Respuestas"
 document.getElementById('formulario').addEventListener('submit', async function (e) {
   e.preventDefault();
 
@@ -84,18 +88,19 @@ document.getElementById('formulario').addEventListener('submit', async function 
     });
 
     const respuesta = await res.json();
+
     if (respuesta.status === "ok") {
-      alert("✅ " + respuesta.mensaje);
+      alert("✅ Datos enviados correctamente");
       this.reset();
       document.getElementById('aliado').innerHTML = '<option value="">Seleccione...</option>';
       document.getElementById('aliado').disabled = true;
       document.getElementById('punto').innerHTML = '<option value="">Seleccione...</option>';
       document.getElementById('punto').disabled = true;
     } else {
-      alert("⚠️ Hubo un problema al guardar los datos.");
+      alert("⚠️ Error al guardar los datos.");
     }
   } catch (err) {
     console.error("Error al enviar:", err);
-    alert("❌ Error al enviar el formulario.");
+    alert("❌ Fallo la conexión al guardar el formulario.");
   }
 });
