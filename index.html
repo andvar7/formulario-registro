@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+  <meta charset="UTF-8">
+  <title>Formulario de Registro</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+  <form id="formulario">
+    <h2>Información de contacto</h2>
+
+    <label>Nombre Completo:</label>
+    <input type="text" name="nombre" required>
+
+    <label>Celular:</label>
+    <input type="text" name="celular" required>
+
+    <label>Correo electrónico:</label>
+    <input type="email" name="correo" required>
+
+    <label>Departamento:</label>
+    <select id="departamento" required></select>
+
+    <label>Aliado:</label>
+    <select id="aliado" required disabled></select>
+
+    <label>Punto de Venta:</label>
+    <select id="punto" required disabled></select>
+
+    <button type="submit">Enviar</button>
+  </form>
+
+  <script src="script.js"></script>
+</body>
+</html>
