@@ -1,0 +1,6 @@
+/formulario-registro/
+│
+├── index.html        # Formulario principal
+├── style.css         # Estilos personalizados
+├── script.js         # Lógica JS: cargar API, formularios y envío
+└── responses.xlsx    # (opcional) archivo de datos recopilados si usas backend o integrador
