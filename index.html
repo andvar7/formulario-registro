@@ -1,23 +1,23 @@
 <!DOCTYPE html>
 <html lang="es">
 <head>
-  <meta charset="UTF-8">
-  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
   <title>Formulario de Registro</title>
-  <link rel="stylesheet" href="style.css">
+  <link rel="stylesheet" href="style.css" />
 </head>
 <body>
-  <form id="formulario" action="https://formspree.io/f/xyzwojnr" method="POST">
+  <form id="formulario">
     <h2>Información de contacto</h2>
 
     <label>Nombre Completo:</label>
-    <input type="text" name="nombre" required>
+    <input type="text" name="nombre" required />
 
     <label>Celular:</label>
-    <input type="text" name="celular" required>
+    <input type="text" name="celular" required />
 
     <label>Correo electrónico:</label>
-    <input type="email" name="correo" required>
+    <input type="email" name="correo" required />
 
     <label>Departamento:</label>
     <select id="departamento" name="departamento" required></select>
@@ -32,5 +32,35 @@
   </form>
 
   <script src="script.js"></script>
+  <script>
+    document.getElementById("formulario").addEventListener("submit", async function (e) {
+      e.preventDefault();
+
+      const form = e.target;
+      const data = new FormData(form);
+
+      try {
+        const res = await fetch("https://formspree.io/f/xyzwojnr", {
+          method: "POST",
+          body: data,
+          headers: { Accept: "application/json" }
+        });
+
+        if (res.ok) {
+          form.innerHTML = `
+            <div style="text-align:center">
+              <h2 style="color:#b30000;">¡Gracias!</h2>
+              <p>Tu formulario ha sido enviado con éxito.</p>
+            </div>
+          `;
+        } else {
+          alert("Ocurrió un error al enviar el formulario.");
+        }
+      } catch (err) {
+        console.error(err);
+        alert("Error de red al enviar el formulario.");
+      }
+    });
+  </script>
 </body>
 </html>
