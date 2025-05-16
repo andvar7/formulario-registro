@@ -1,6 +1,5 @@
-/formulario-registro/
-│
-├── index.html        # Formulario principal
-├── style.css         # Estilos personalizados
-├── script.js         # Lógica JS: cargar API, formularios y envío
-└── datos.json       # (opcional) archivo de datos recopilados si usas backend o integrador
+formulario-registro/
+├── index.html       ← Formulario con Formspree
+├── script.js        ← Lógica para combos dinámicos desde JSON
+├── style.css        ← Estilo del formulario
+└── datos.json       ← Archivo de datos jerárquico (puedes reemplazarlo por el tuyo)
