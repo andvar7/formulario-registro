@@ -1,777 +1,304 @@
 [
     {
-        "departamento": " ATLANTICO",
-        "aliado": "ADKUA S.A.S",
-        "punto": "FNB - ADKUA"
-    },
-    {
-        "departamento": " MAGDALENA",
-        "aliado": "ALIANZA SURTIDORA SAS",
-        "punto": "FNB ALIANZA SURTIDORA CONFCCIONES DE LA 41 (ATL)"
-    },
-    {
-        "departamento": " ATLANTICO",
+        "departamento": "ATLANTICO",
         "aliado": "ALMACEN BC S.A.",
-        "punto": "FNB - ALMACEN BC S.A."
+        "punto": [
+            "FNB - ALMACEN BC S.A."
+        ]
     },
     {
-        "departamento": " ATLANTICO",
+        "departamento": "ATLANTICO",
         "aliado": "ALMACEN CICLOMARTINEZ S.A",
-        "punto": "FNB - CICLOMARTINEZ ALMACEN 21 (ATL)"
+        "punto": [
+            "FNB - CICLOMARTINEZ ALMACEN 21 (ATL)"
+        ]
     },
     {
-        "departamento": " ATLANTICO",
-        "aliado": "ALMACENES EXITO S.A.",
-        "punto": "FNB - Exito 77 (ATL.)"
-    },
-    {
-        "departamento": " ATLANTICO",
-        "aliado": "ALMACENES EXITO S.A.",
-        "punto": "FNB - ÉXITO BUENAVISTA (ATL)"
-    },
-    {
-        "departamento": " ATLANTICO",
-        "aliado": "ALMACENES EXITO S.A.",
-        "punto": "FNB - ÉXITO MALAMBO(ATL)"
-    },
-    {
-        "departamento": " CESAR",
-        "aliado": "ALMACENES LA MEGA SAS",
-        "punto": "FNB - MEGA CORONA"
-    },
-    {
-        "departamento": " CESAR",
-        "aliado": "ALMACENES LA MEGA SAS",
-        "punto": "FNB - MEGA FERRETERIA MERCADO"
-    },
-    {
-        "departamento": " ATLANTICO",
-        "aliado": "ANDREW WILSON MAURELLO VILLALBA",
-        "punto": "FNB ANDREW MAURELLO METROCONSTRUYA (ATL)"
-    },
-    {
-        "departamento": " ATLANTICO",
+        "departamento": "ATLANTICO",
         "aliado": "AUTOTECNICA COLOMBIANA S.A.S",
-        "punto": "FNB AUTECNICA MOTOS LA PUERTA DEL SOL SABANALARGA (ATL)"
+        "punto": [
+            "FNB AUTECNICA MOTOS LA PUERTA DEL SOL SABANALARGA (ATL)"
+        ]
     },
     {
-        "departamento": " ATLANTICO",
+        "departamento": "ATLANTICO",
         "aliado": "C.E.A. DE SOLEDAD S.A.S.",
-        "punto": "FNB - C.E.A. DE SOLEDAD"
+        "punto": [
+            "FNB - C.E.A. DE SOLEDAD",
+            "FNB - CEA DE SOLEDAD LOS ROBLES (ATL)"
+        ]
     },
     {
-        "departamento": " ATLANTICO",
-        "aliado": "C.E.A. DE SOLEDAD S.A.S.",
-        "punto": "FNB - CEA DE SOLEDAD LOS ROBLES (ATL)"
-    },
-    {
-        "departamento": " ATLANTICO",
-        "aliado": "C.E.A. MANEJANDO CUS LTDA",
-        "punto": "FNB - OFICINA PRINCIPAL MANEJANDO CUS (ATL)"
-    },
-    {
-        "departamento": " ATLANTICO",
+        "departamento": "ATLANTICO",
         "aliado": "CABARCAS SARMIENTO S.A.S.",
-        "punto": " FNB CABARCAS SARMIENTO BARRANQUILLA (ATL)"
+        "punto": [
+            " FNB CABARCAS SARMIENTO BARRANQUILLA (ATL)"
+        ]
     },
     {
-        "departamento": " CESAR",
-        "aliado": "CARCO SEVE S.A.S",
-        "punto": "FNB - CARCO BOSCONIA"
-    },
-    {
-        "departamento": " CESAR",
-        "aliado": "CARCO SEVE S.A.S",
-        "punto": "FNB ¿ CARCO VALLEDUPAR"
-    },
-    {
-        "departamento": " ATLANTICO",
+        "departamento": "ATLANTICO",
         "aliado": "CENCOSUD COLOMBIA S.A.",
-        "punto": "FNB - 177 METRO SAN FRANCISCO (ATL)"
+        "punto": [
+            "FNB - EASY ALTOS DEL PRADO (ATL)"
+        ]
     },
     {
-        "departamento": " ATLANTICO",
-        "aliado": "CENCOSUD COLOMBIA S.A.",
-        "punto": "FNB - 43 JUMBO  ALTOS DEL PRADO (ATL)"
-    },
-    {
-        "departamento": " ATLANTICO",
-        "aliado": "CENCOSUD COLOMBIA S.A.",
-        "punto": "FNB - 86 JUMBO AMERICANO (ATL)"
-    },
-    {
-        "departamento": " ATLANTICO",
-        "aliado": "CENCOSUD COLOMBIA S.A.",
-        "punto": "FNB - 88 JUMBO BUENAVISTA (ATL)"
-    },
-    {
-        "departamento": " ATLANTICO",
-        "aliado": "CENCOSUD COLOMBIA S.A.",
-        "punto": "FNB - EASY ALTOS DEL PRADO (ATL)"
-    },
-    {
-        "departamento": " ATLANTICO",
+        "departamento": "ATLANTICO",
         "aliado": "CENTRO DE ENSEÑANZA AUTOMOVILISTICA CONDUCTORES INTELIGENTES SAS",
-        "punto": "FNB - CEA CONDUCTORES INTELIGENTES SAS (ATL)"
+        "punto": [
+            "FNB - CEA CONDUCTORES INTELIGENTES SAS (ATL)"
+        ]
     },
     {
-        "departamento": " ATLANTICO",
+        "departamento": "ATLANTICO",
         "aliado": "CENTRO DE ENSEÑANZA AUTOMOVILISTICA MAESTROS AL VOLANTE S.A.S.",
-        "punto": "FNB MAESTROS AL VOLANTE (ATL)"
+        "punto": [
+            "FNB MAESTROS AL VOLANTE (ATL)"
+        ]
     },
     {
-        "departamento": " ATLANTICO",
+        "departamento": "ATLANTICO",
         "aliado": "CENTRO DE ENSEÑANZA AUTOMOVILÍSTICA AS REALES",
-        "punto": "FNB - AS REALES SEDE 45"
+        "punto": [
+            "FNB - AS REALES SEDE 45"
+        ]
     },
     {
-        "departamento": " ATLANTICO",
-        "aliado": "CENTRO DE INFORMATICA DEL CARIBE LTDA",
-        "punto": "FNB - CENTRO DE INFORMATICA DEL CARIBE LTDA (ATL)"
-    },
-    {
-        "departamento": " ATLANTICO",
+        "departamento": "ATLANTICO",
         "aliado": "CLINICA DENTAL DEL CARIBE TUBOCA SAS",
-        "punto": "FNB CLINICA DENTAL DEL CARIBE TU BOCA SAS"
+        "punto": [
+            "FNB CLINICA DENTAL DEL CARIBE TU BOCA SAS"
+        ]
     },
     {
-        "departamento": " CESAR",
+        "departamento": "ATLANTICO",
         "aliado": "CLINICA OFTALMOLOGICA DEL CARIBE S. A. S.",
-        "punto": "FNB CLINICA DEL CARIBE VALLEDUPAR (CES)"
+        "punto": [
+            "FNB CLINICA DEL CARIBE VIVA (ATL)"
+        ]
     },
     {
-        "departamento": " ATLANTICO",
-        "aliado": "CLINICA OFTALMOLOGICA DEL CARIBE S. A. S.",
-        "punto": "FNB CLINICA DEL CARIBE VIVA (ATL)"
-    },
-    {
-        "departamento": " ATLANTICO",
+        "departamento": "ATLANTICO",
         "aliado": "COLCHONES AMERICAN RELAX SAS",
-        "punto": "FNB  COLCHONES SERRATI (ATL)"
+        "punto": [
+            "FNB  COLCHONES SERRATI (ATL)"
+        ]
     },
     {
-        "departamento": " ATLANTICO",
+        "departamento": "ATLANTICO",
         "aliado": "COLCHONES Y MUEBLES RELAX S.A.",
-        "punto": " FNB - RELAX PLAZA DEL SOL (ATL.)"
+        "punto": [
+            " FNB - RELAX PLAZA DEL SOL (ATL.)",
+            "FNB - RELAX JUAN MINA (ATL.)",
+            "FNB - RELAX NUESTRO ATLANTICO (ATL.)",
+            "FNB - RELAX PARQUE ALEGRA (ATL)"
+        ]
     },
     {
-        "departamento": " ATLANTICO",
-        "aliado": "COLCHONES Y MUEBLES RELAX S.A.",
-        "punto": "FNB - RELAX CALLE 77 (ATL.)"
+        "departamento": "ATLANTICO",
+        "aliado": "COLOMBIANA DE COMERCIO S.A",
+        "punto": [
+            " FNB - AKT SOLEDAD (ATL)",
+            "FNB - AKT BARRANQUILLA 1 (ATL.)"
+        ]
     },
     {
-        "departamento": " ATLANTICO",
-        "aliado": "COLCHONES Y MUEBLES RELAX S.A.",
-        "punto": "FNB - RELAX JUAN MINA (ATL.)"
-    },
-    {
-        "departamento": " ATLANTICO",
-        "aliado": "COLCHONES Y MUEBLES RELAX S.A.",
-        "punto": "FNB - RELAX NUESTRO ATLANTICO (ATL.)"
-    },
-    {
-        "departamento": " ATLANTICO",
-        "aliado": "COLCHONES Y MUEBLES RELAX S.A.",
-        "punto": "FNB - RELAX PARQUE ALEGRA (ATL)"
-    },
-    {
-        "departamento": " ATLANTICO",
-        "aliado": "COLOMBIANA DE COMERCIO S.A ",
-        "punto": " FNB - AKT SOLEDAD (ATL)"
-    },
-    {
-        "departamento": " ATLANTICO",
-        "aliado": "COLOMBIANA DE COMERCIO S.A ",
-        "punto": "FNB - AKT BARRANQUILLA 1 (ATL.)"
-    },
-    {
-        "departamento": " ATLANTICO",
-        "aliado": "COLOMBIANA DE COMERCIO S.A ",
-        "punto": "FNB ¿ Ktronix Barranquilla(ATL)"
-    },
-    {
-        "departamento": " MAGDALENA",
-        "aliado": "COMERCIALIZADORA MOTOSAN SM SAS",
-        "punto": "FNB AUTECO AV DEL LIBERTADOR (MAG)"
-    },
-    {
-        "departamento": " ATLANTICO",
+        "departamento": "ATLANTICO",
         "aliado": "CONDUZCAMOS S.A.S",
-        "punto": "FNB - CEA CONDUZCAMOS CORDIALIDAD"
+        "punto": [
+            "FNB - CEA CONDUZCAMOS CORDIALIDAD"
+        ]
     },
     {
-        "departamento": " ATLANTICO",
+        "departamento": "ATLANTICO",
         "aliado": "DISMERCA S.A.S.",
-        "punto": "FNB DISMERCA BQUILLA CRA 46 "
+        "punto": [
+            "FNB DISMERCA CORDIALIDAD"
+        ]
     },
     {
-        "departamento": " ATLANTICO",
-        "aliado": "DISMERCA S.A.S.",
-        "punto": "FNB DISMERCA CORDIALIDAD"
-    },
-    {
-        "departamento": " ATLANTICO",
-        "aliado": "DISMERCA S.A.S.",
-        "punto": "FNB DISMERCA SOLEDAD 2000 "
-    },
-    {
-        "departamento": " ATLANTICO",
-        "aliado": "DISMERCA S.A.S.",
-        "punto": " FNB DISMERCA BQUILLA CRA 8 "
-    },
-    {
-        "departamento": " ATLANTICO",
+        "departamento": "ATLANTICO",
         "aliado": "DISTRIBUCIONES LA CLAVE S.A.S",
-        "punto": "FNB DISTRIBUCIONES LA CLAVE (ATL)"
+        "punto": [
+            "FNB DISTRIBUCIONES LA CLAVE (ATL)"
+        ]
     },
     {
-        "departamento": " ATLANTICO",
-        "aliado": "DISTRIMOTOS DE COLOMBIA SAS",
-        "punto": "FNB DISTRIMOTOS MOVIMOTOS BARANOA (ATL)"
-    },
-    {
-        "departamento": " ATLANTICO",
-        "aliado": "DISTRIMOTOS DE COLOMBIA SAS",
-        "punto": "FNB DISTRIMOTOS MOVIMOTOS GALAPA (ATL)"
-    },
-    {
-        "departamento": " ATLANTICO",
-        "aliado": "DISTRIMOTOS DE COLOMBIA SAS",
-        "punto": "FNB DISTRIMOTOS MOVIMOTOS SANTO TOMAS (ATL)"
-    },
-    {
-        "departamento": " ATLANTICO",
-        "aliado": "DISTRIMOTOS DE COLOMBIA SAS",
-        "punto": "FNB DISTRIMOTOS MOVIMOTOS SOLEDAD (ATL)"
-    },
-    {
-        "departamento": " MAGDALENA",
-        "aliado": "DISTRITODO VS S.A.S",
-        "punto": "FNB - DISTRITODO - FERROTODO CIENEGA (MAG)"
-    },
-    {
-        "departamento": " MAGDALENA",
-        "aliado": "DISTRITODO VS S.A.S",
-        "punto": "FNB - DISTRITODO SANTA MARTA CENTRO (MAG)"
-    },
-    {
-        "departamento": " ATLANTICO",
+        "departamento": "ATLANTICO",
         "aliado": "DORYS LOPEZ COMPAÑÍA S EN C",
-        "punto": "FNB JIREHTRAVEL (ATL)"
+        "punto": [
+            "FNB JIREHTRAVEL (ATL)"
+        ]
     },
     {
-        "departamento": " ATLANTICO",
+        "departamento": "ATLANTICO",
         "aliado": "ESPUMADOS DEL LITORAL S.A.",
-        "punto": "FNB - ESPUMADOS DEL LITORAL (ATL)"
+        "punto": [
+            "FNB - ESPUMADOS DEL LITORAL (ATL)"
+        ]
     },
     {
-        "departamento": " ATLANTICO",
-        "aliado": "ESTAR S.A.S.",
-        "punto": "FNB ESTAR BARRANQUILLA (ATL)"
-    },
-    {
-        "departamento": " ATLANTICO",
-        "aliado": "EXPOCONSTRUCCION 43 Y COMPAÑIA LIMITADA",
-        "punto": "FNB - EXPOCONSTRUCCION 43 (ATL)"
-    },
-    {
-        "departamento": " ATLANTICO",
+        "departamento": "ATLANTICO",
         "aliado": "FERREMATERIALES RUMBAVANA Y ALGO MAS S.A.S.",
-        "punto": "FNB FERREMATERIALES RUMBAVANA Y ALGO MAS SANTA SOFIA"
+        "punto": [
+            "FNB FERREMATERIALES RUMBAVANA Y ALGO MAS SANTA SOFIA",
+            "FNB FERREMATERIALES RUMBAVANA Y ALGO MAS SEDE PRINCIPAL"
+        ]
     },
     {
-        "departamento": " ATLANTICO",
-        "aliado": "FERREMATERIALES RUMBAVANA Y ALGO MAS S.A.S.",
-        "punto": "FNB FERREMATERIALES RUMBAVANA Y ALGO MAS SEDE PRINCIPAL"
-    },
-    {
-        "departamento": " MAGDALENA",
-        "aliado": "FMAC S.A.S.",
-        "punto": "FNB FMAC ARACATACA (MAG)"
-    },
-    {
-        "departamento": " ATLANTICO",
-        "aliado": "GRUPO UMA S.A.S.",
-        "punto": "FNB GRUPO UMA SANTO TOMAS (ATL)"
-    },
-    {
-        "departamento": " ATLANTICO",
-        "aliado": "HERMANOS SANCHEZ VALLEJO Y CIA. S. EN C.",
-        "punto": "FNB - EL MAR DE LA CERÁMICA (ATL)"
-    },
-    {
-        "departamento": " ATLANTICO",
+        "departamento": "ATLANTICO",
         "aliado": "INVERSIONES CREAR RAMA S.A.S",
-        "punto": "FNB CLINICA MALL PLAZA INVERSIONES CREAR RAMA SAS"
+        "punto": [
+            "FNB CLINICA MALL PLAZA INVERSIONES CREAR RAMA SAS"
+        ]
     },
     {
-        "departamento": " ATLANTICO",
+        "departamento": "ATLANTICO",
         "aliado": "INVERSIONES DAMA SALUD S.A.",
-        "punto": "FNB - SONRIA CEVILLAR (ATL.)"
+        "punto": [
+            "FNB - SONRIA CEVILLAR (ATL.)",
+            "FNB - SONRIA PRADO (ATL.)",
+            "FNB - SONRIA RECREO (ATL.)"
+        ]
     },
     {
-        "departamento": " ATLANTICO",
-        "aliado": "INVERSIONES DAMA SALUD S.A.",
-        "punto": "FNB - SONRIA PRADO (ATL.)"
-    },
-    {
-        "departamento": " ATLANTICO",
-        "aliado": "INVERSIONES DAMA SALUD S.A.",
-        "punto": "FNB - SONRIA RECREO (ATL.)"
-    },
-    {
-        "departamento": " ATLANTICO",
+        "departamento": "ATLANTICO",
         "aliado": "INVERSIONES KOMBAT BIKER S.A.S",
-        "punto": "FNB- KOMBAT BIKER (ATL)"
+        "punto": [
+            "FNB- KOMBAT BIKER (ATL)"
+        ]
     },
     {
-        "departamento": " ATLANTICO",
-        "aliado": "INVESAKK LTDA",
-        "punto": "FNB - F. SAMIR BODEMAYOR (ATL.)"
-    },
-    {
-        "departamento": " ATLANTICO",
-        "aliado": "INVESAKK LTDA",
-        "punto": "FNB - F. SAMIR SANTO TOMAS (ATL)"
-    },
-    {
-        "departamento": " MAGDALENA",
-        "aliado": "INVESAKK LTDA",
-        "punto": "FNB ¿ F. SAMIR SANTA MARTA (MAG)"
-    },
-    {
-        "departamento": " ATLANTICO",
-        "aliado": "INVESAKK LTDA",
-        "punto": "FNB- F. SAMIR SOLEDAD (ATL)"
-    },
-    {
-        "departamento": " CESAR",
-        "aliado": "JUAN CARLO LOSADAS SAS",
-        "punto": "FNB - LLANTAS Y SERVICIOS PALERMO - JUAN CARLO LOSADA SAS"
-    },
-    {
-        "departamento": " ATLANTICO",
-        "aliado": "KREDITKASA SAS",
-        "punto": "FNB  KREDITKASA  MI PLAZA LOS ROBLES (ATL)"
-    },
-    {
-        "departamento": " ATLANTICO",
-        "aliado": "KREDITKASA SAS",
-        "punto": "FNB - KREDITKASA - C.C CARNAVAL (ATL)"
-    },
-    {
-        "departamento": " ATLANTICO",
-        "aliado": "KREDITKASA SAS",
-        "punto": "FNB - KREDITKASA - C.C PLAZA DEL SOL (ATL)"
-    },
-    {
-        "departamento": " ATLANTICO",
-        "aliado": "KREDITKASA SAS",
-        "punto": "FNB - KREDITKASA - C.C. NUESTRO ATLANTICO (ATL)"
-    },
-    {
-        "departamento": " ATLANTICO",
-        "aliado": "KREDITKASA SAS",
-        "punto": "FNB - KREDITKASA SANTO TOMAS EL POBLADO (ATL)"
-    },
-    {
-        "departamento": " ATLANTICO",
-        "aliado": "KREDITKASA SAS",
-        "punto": "FNB KREDITKASA PRADO"
-    },
-    {
-        "departamento": " MAGDALENA",
-        "aliado": "LAMI SAS ",
-        "punto": "FNB LAMI SANTA MARTA LAMI SAS"
-    },
-    {
-        "departamento": " BOLIVAR",
-        "aliado": "LIND HOGAR",
-        "punto": "FNB - LIND HOGAR ARENAL (ATL)"
-    },
-    {
-        "departamento": " ATLANTICO",
-        "aliado": "LOGISTICAS Y CONSTRUCCIONES COLOMBIA S.A.S",
-        "punto": "FNB LOGISTICAS Y CONSTRUCCIONES CONSTRURAMA (ATL)"
-    },
-    {
-        "departamento": " ATLANTICO",
-        "aliado": "LUIS NAPOLEON CALDERON MENDOZA",
-        "punto": "FNB - LUIS XV RA (ATL)"
-    },
-    {
-        "departamento": " ATLANTICO",
+        "departamento": "ATLANTICO",
         "aliado": "LUIS RESTREPO PELAEZ S.A.S",
-        "punto": "FNB - LR PELAEZ  (ATL)"
+        "punto": [
+            "FNB - LR PELAEZ  (ATL)"
+        ]
     },
     {
-        "departamento": " ATLANTICO",
-        "aliado": "MANUEL GERMAN CUELLO BAUTE",
-        "punto": "FNB PREMIUM DENTAL MANUEL CUELLO BAUTE (ATL)"
-    },
-    {
-        "departamento": " MAGDALENA",
-        "aliado": "MER - K - FACIL S.A.S",
-        "punto": "FNB - MERKAFACIL AKITUMOTO RODADERO "
-    },
-    {
-        "departamento": " ATLANTICO",
-        "aliado": "MOTO CUBICO SAS",
-        "punto": "FNB - MOTOCUBICO HERO MALAMBO (ATL)"
-    },
-    {
-        "departamento": " MAGDALENA",
-        "aliado": "MOTOCAR COMERCIALIZADORA SAS",
-        "punto": "FNB MOTOCAR HERO MOTOCAR LA 19 (MAG)"
-    },
-    {
-        "departamento": " ATLANTICO",
-        "aliado": "MOTOCENTRO HONDA S.A.",
-        "punto": "FNB MOTOCENTRO HONDA  SANTA ELENA (ATL)"
-    },
-    {
-        "departamento": " MAGDALENA",
-        "aliado": "MOTOS Y MOTORES J.D. S.A.S.",
-        "punto": "FNB MOTOS Y MOTORES  GUAMAL MAGDALENA"
-    },
-    {
-        "departamento": " ATLANTICO",
+        "departamento": "ATLANTICO",
         "aliado": "MUEBLES JAMAR S.A.",
-        "punto": "FNB MUEBLES JAMAR METROPOLITANO (ATL)"
+        "punto": [
+            "FNB MUEBLES JAMAR PRINCIPAL (ATL)"
+        ]
     },
     {
-        "departamento": " ATLANTICO",
-        "aliado": "MUEBLES JAMAR S.A.",
-        "punto": "FNB MUEBLES JAMAR NORTE BARRANQUILLA (ATL)"
-    },
-    {
-        "departamento": " ATLANTICO",
-        "aliado": "MUEBLES JAMAR S.A.",
-        "punto": "FNB MUEBLES JAMAR PRINCIPAL (ATL)"
-    },
-    {
-        "departamento": " CESAR",
-        "aliado": "OPTICA AMERICANA IA S.A.S.",
-        "punto": "FNB OPTICA AMERICANA IA SAS"
-    },
-    {
-        "departamento": " ATLANTICO",
+        "departamento": "ATLANTICO",
         "aliado": "ORGANIZACION DEL MAR LIMITADA",
-        "punto": "FNB MINT DENTAL AESTHETIC ORGANIZACION DEL MAR LIMITADA"
+        "punto": [
+            "FNB MINT DENTAL AESTHETIC ORGANIZACION DEL MAR LIMITADA"
+        ]
     },
     {
-        "departamento": " ATLANTICO",
+        "departamento": "ATLANTICO",
         "aliado": "PISOS Y ENCHAPES RYL SAS",
-        "punto": "FNB  BARRANQUILLA CIRCUNVALAR PISOS Y ENCHAPES"
+        "punto": [
+            "FNB BARRANQUILLA CALLE 30  PISOS Y ENCHAPES ",
+            "FNB BODEGAZO CERÁMICO BARRANQUILLA CALLE 30 PISOS Y ENCHAPES",
+            "FNB BODEGAZO CERÁMICO BARRANQUILLA CIRCUNVALAR PISOS Y ENCHAPES"
+        ]
     },
     {
-        "departamento": " MAGDALENA",
-        "aliado": "PISOS Y ENCHAPES RYL SAS",
-        "punto": "FNB - CERAMICA SAN LORENZO SANTA MARTA RYL"
-    },
-    {
-        "departamento": " ATLANTICO",
-        "aliado": "PISOS Y ENCHAPES RYL SAS",
-        "punto": "FNB BARRANQUILLA CALLE 30  PISOS Y ENCHAPES "
-    },
-    {
-        "departamento": " ATLANTICO",
-        "aliado": "PISOS Y ENCHAPES RYL SAS",
-        "punto": "FNB BODEGAZO CERÁMICO BARRANQUILLA CALLE 30 PISOS Y ENCHAPES"
-    },
-    {
-        "departamento": " ATLANTICO",
-        "aliado": "PISOS Y ENCHAPES RYL SAS",
-        "punto": "FNB BODEGAZO CERÁMICO BARRANQUILLA CIRCUNVALAR PISOS Y ENCHAPES"
-    },
-    {
-        "departamento": " CESAR",
-        "aliado": "PISOS Y ENCHAPES RYL SAS",
-        "punto": "FNB BODEGAZO VALLEDUPAR PISOS Y ENCHAPES RYL SAS"
-    },
-    {
-        "departamento": " ATLANTICO",
-        "aliado": "PISOS Y ENCHAPES RYL SAS",
-        "punto": "FNB CERÁMICA BARRANQUILLA CIRCUNVALAR PISOS Y ENCHAPES"
-    },
-    {
-        "departamento": " ATLANTICO",
-        "aliado": "PISOS Y ENCHAPES RYL SAS",
-        "punto": "FNB RENOVAR BARRANQUILLA CALLE 30 PISOS Y ENCHAPES"
-    },
-    {
-        "departamento": " CESAR",
-        "aliado": "PISOS Y ENCHAPES RYL SAS",
-        "punto": "FNB SAN LORENZO VALLEDUPAR PISOS Y ENCHAPES RYL SAS"
-    },
-    {
-        "departamento": " MAGDALENA",
-        "aliado": "PISOS Y ENCHAPES RYL SAS",
-        "punto": "FNB SANTA MARTA PISOS Y ENCHAPES"
-    },
-    {
-        "departamento": " CESAR",
-        "aliado": "PISOS Y ENCHAPES RYL SAS",
-        "punto": "FNB SUPERMERCADO CERAMICO PISOS Y ENCHAPES (VD)"
-    },
-    {
-        "departamento": " MAGDALENA",
+        "departamento": "ATLANTICO",
         "aliado": "SIMPLIFICAR S.A.S.",
-        "punto": "FNB - SIMPLIFICAR S.A.S"
+        "punto": [
+            "FNB - SIMPLIFICAR S.A.S (ATL)"
+        ]
     },
     {
-        "departamento": " ATLANTICO",
-        "aliado": "SIMPLIFICAR S.A.S.",
-        "punto": "FNB - SIMPLIFICAR S.A.S (ATL)"
-    },
-    {
-        "departamento": " ATLANTICO",
+        "departamento": "ATLANTICO",
         "aliado": "SMS ELECTRONIC S.A.S",
-        "punto": "FNB - SMS ELECTRONIC BUENA VISTA BARRANQUILLA (ATL)"
+        "punto": [
+            "FNB - SMS ELECTRONIC BUENA VISTA BARRANQUILLA (ATL)",
+            "FNB - SMS ELECTRONIC VILLA COUNTRY B/QUILLA (ATL)",
+            "FNB - SMS ELECTRONIC VIVA BARRANQUILA (ATL)"
+        ]
     },
     {
-        "departamento": " ATLANTICO",
-        "aliado": "SMS ELECTRONIC S.A.S",
-        "punto": "FNB - SMS ELECTRONIC ISLA PARQUE ALEGRA (ATL)"
-    },
-    {
-        "departamento": " ATLANTICO",
-        "aliado": "SMS ELECTRONIC S.A.S",
-        "punto": "FNB - SMS ELECTRONIC PLAZA DEL SOL SOLEDAD (ATL)"
-    },
-    {
-        "departamento": " ATLANTICO",
-        "aliado": "SMS ELECTRONIC S.A.S",
-        "punto": "FNB - SMS ELECTRONIC PORTAL DEL PRADO B/QUILLA (ATL)"
-    },
-    {
-        "departamento": " ATLANTICO",
-        "aliado": "SMS ELECTRONIC S.A.S",
-        "punto": "FNB - SMS ELECTRONIC VILLA COUNTRY B/QUILLA (ATL)"
-    },
-    {
-        "departamento": " ATLANTICO",
-        "aliado": "SMS ELECTRONIC S.A.S",
-        "punto": "FNB - SMS ELECTRONIC VIVA BARRANQUILA (ATL)"
-    },
-    {
-        "departamento": " ATLANTICO",
-        "aliado": "SODIMAC COLOMBIA S.A. ",
-        "punto": "FNB - HOMECENTER NORTE (ATL.) "
-    },
-    {
-        "departamento": " CESAR",
-        "aliado": "SOLUCIONES MAF S.A.S",
-        "punto": "FNB - TAURO 13 (VALLEDUPAR)"
-    },
-    {
-        "departamento": " ATLANTICO",
+        "departamento": "ATLANTICO",
         "aliado": "SUPERTIENDAS OLIMPICA SA",
-        "punto": "FNB - OLIMPICA BARANOA (ATL.)"
+        "punto": [
+            "FNB - OLIMPICA BARANOA (ATL.)",
+            "FNB - OLIMPICA STO 015  LA PAZ",
+            "FNB - SAO 094 VILLA CAROLINA (ATL.)"
+        ]
     },
     {
-        "departamento": " MAGDALENA",
-        "aliado": "SUPERTIENDAS OLIMPICA SA",
-        "punto": "FNB - OLIMPICA BONGA"
-    },
-    {
-        "departamento": " ATLANTICO",
-        "aliado": "SUPERTIENDAS OLIMPICA SA",
-        "punto": "FNB - OLIMPICA LAS TORRES (ATL.)"
-    },
-    {
-        "departamento": " ATLANTICO",
-        "aliado": "SUPERTIENDAS OLIMPICA SA",
-        "punto": "FNB - OLIMPICA MALAMBO"
-    },
-    {
-        "departamento": " ATLANTICO",
-        "aliado": "SUPERTIENDAS OLIMPICA SA",
-        "punto": "FNB - OLIMPICA RECREO (ATL)"
-    },
-    {
-        "departamento": " ATLANTICO",
-        "aliado": "SUPERTIENDAS OLIMPICA SA",
-        "punto": "FNB - OLIMPICA STO 009 PUERTO COLOMBIA"
-    },
-    {
-        "departamento": " ATLANTICO",
-        "aliado": "SUPERTIENDAS OLIMPICA SA",
-        "punto": "FNB - OLIMPICA STO 015  LA PAZ"
-    },
-    {
-        "departamento": " ATLANTICO",
-        "aliado": "SUPERTIENDAS OLIMPICA SA",
-        "punto": "FNB - OLIMPICA STO 029 SABANAGRANDE"
-    },
-    {
-        "departamento": " ATLANTICO",
-        "aliado": "SUPERTIENDAS OLIMPICA SA",
-        "punto": "FNB - OLIMPICA STO 032 CORDIALIDAD - (ALT.)"
-    },
-    {
-        "departamento": " ATLANTICO",
-        "aliado": "SUPERTIENDAS OLIMPICA SA",
-        "punto": "FNB - OLIMPICA STO 033 SOLEDAD 2000 (ATL.)"
-    },
-    {
-        "departamento": " ATLANTICO",
-        "aliado": "SUPERTIENDAS OLIMPICA SA",
-        "punto": "FNB - OLIMPICA STO 034 PALMAR DE VARELA"
-    },
-    {
-        "departamento": " ATLANTICO",
-        "aliado": "SUPERTIENDAS OLIMPICA SA",
-        "punto": "FNB - OLIMPICA STO 045 LA CIUDADELA"
-    },
-    {
-        "departamento": " ATLANTICO",
-        "aliado": "SUPERTIENDAS OLIMPICA SA",
-        "punto": "FNB - OLIMPICA STO 054 VILLA CAMPESTRE"
-    },
-    {
-        "departamento": " ATLANTICO",
-        "aliado": "SUPERTIENDAS OLIMPICA SA",
-        "punto": "FNB - OLIMPICA STO 062 LA PLAYA"
-    },
-    {
-        "departamento": " ATLANTICO",
-        "aliado": "SUPERTIENDAS OLIMPICA SA",
-        "punto": "FNB - OLIMPICA STO 066 ALAMEDA DEL RIO"
-    },
-    {
-        "departamento": " MAGDALENA",
-        "aliado": "SUPERTIENDAS OLIMPICA SA",
-        "punto": "FNB - OLIMPICA STO 215 ARACATACA"
-    },
-    {
-        "departamento": " MAGDALENA",
-        "aliado": "SUPERTIENDAS OLIMPICA SA",
-        "punto": "FNB - OLIMPICA STO 218 PIVIJAY"
-    },
-    {
-        "departamento": " MAGDALENA",
-        "aliado": "SUPERTIENDAS OLIMPICA SA",
-        "punto": "FNB - OLIMPICA STO 223 MAMATOCO"
-    },
-    {
-        "departamento": " MAGDALENA",
-        "aliado": "SUPERTIENDAS OLIMPICA SA",
-        "punto": "FNB - OLIMPICA STO 330 PLATO"
-    },
-    {
-        "departamento": " ATLANTICO",
-        "aliado": "SUPERTIENDAS OLIMPICA SA",
-        "punto": "FNB - OLIMPICA SUPERTEC 098"
-    },
-    {
-        "departamento": " ATLANTICO",
-        "aliado": "SUPERTIENDAS OLIMPICA SA",
-        "punto": "FNB - OLIMPICA SUPERTECH(ATL)"
-    },
-    {
-        "departamento": " ATLANTICO",
-        "aliado": "SUPERTIENDAS OLIMPICA SA",
-        "punto": "FNB - OLÍMPICA KRA 36 (ATL.)"
-    },
-    {
-        "departamento": " ATLANTICO",
-        "aliado": "SUPERTIENDAS OLIMPICA SA",
-        "punto": "FNB - SAO 094 VILLA CAROLINA (ATL.)"
-    },
-    {
-        "departamento": " ATLANTICO",
-        "aliado": "SUPERTIENDAS OLIMPICA SA",
-        "punto": "FNB - SAO 93 (ATL.)"
-    },
-    {
-        "departamento": " ATLANTICO",
-        "aliado": "SUPERTIENDAS OLIMPICA SA",
-        "punto": "FNB - SAO MACARENA (ATL.)"
-    },
-    {
-        "departamento": " ATLANTICO",
-        "aliado": "SUPERTIENDAS OLIMPICA SA",
-        "punto": "FNB - STO 019 SANTO TOMAS (ATL.)"
-    },
-    {
-        "departamento": " ATLANTICO",
-        "aliado": "SUPERTIENDAS OLIMPICA SA",
-        "punto": "FNB OLIMPICA SAO 53 OUTLET"
-    },
-    {
-        "departamento": " ATLANTICO",
-        "aliado": "SUPERTIENDAS OLIMPICA SA",
-        "punto": "FNB ¿ SAO 067 PARQUE ALEGRA"
-    },
-    {
-        "departamento": " ATLANTICO",
+        "departamento": "ATLANTICO",
         "aliado": "SUSUKI MOTOR DE COLOMBIA S.A",
-        "punto": "FNB ¿ ALMACEN DIRECTO BARRANQUILLA (ATL)"
+        "punto": [
+            "FNB ¿ ALMACEN DIRECTO BARRANQUILLA (ATL)"
+        ]
     },
     {
-        "departamento": " MAGDALENA",
-        "aliado": "TIRE CENTER GROUP SAS",
-        "punto": "FNB TIRE CENTER FERROCARRIL 1 (MAG)"
-    },
-    {
-        "departamento": " ATLANTICO",
-        "aliado": "TIRE CENTER GROUP SAS",
-        "punto": "FNB TIRE CENTER SOLEDAD  (ATL)"
-    },
-    {
-        "departamento": " MAGDALENA",
+        "departamento": "ATLANTICO",
         "aliado": "TODO MOTOS VS S.A.S",
-        "punto": "FNB - TODOMOTOS AKT SANTA MARTA"
+        "punto": [
+            "FNB - TODOMOTOS MOTOS BQUILLA LA 21 (ATL)",
+            "FNB - TODOMOTOS RIO MOTOS HONDA BARANOA (ATL)"
+        ]
     },
     {
-        "departamento": " MAGDALENA",
-        "aliado": "TODO MOTOS VS S.A.S",
-        "punto": "FNB - TODOMOTOS HONDA SAN SEBASTIAN"
-    },
-    {
-        "departamento": " MAGDALENA",
-        "aliado": "TODO MOTOS VS S.A.S",
-        "punto": "FNB - TODOMOTOS MOTO PA TODOS AKT BASTIDAS (MAD)"
-    },
-    {
-        "departamento": " ATLANTICO",
-        "aliado": "TODO MOTOS VS S.A.S",
-        "punto": "FNB - TODOMOTOS MOTOPATODOS AKT SANTO TOMAS (ATL)"
-    },
-    {
-        "departamento": " ATLANTICO",
-        "aliado": "TODO MOTOS VS S.A.S",
-        "punto": "FNB - TODOMOTOS MOTOS BQUILLA LA 21 (ATL)"
-    },
-    {
-        "departamento": " MAGDALENA",
-        "aliado": "TODO MOTOS VS S.A.S",
-        "punto": "FNB - TODOMOTOS MOTOS SANTA MARTA"
-    },
-    {
-        "departamento": " ATLANTICO",
-        "aliado": "TODO MOTOS VS S.A.S",
-        "punto": "FNB - TODOMOTOS RIO MOTOS HONDA BARANOA (ATL)"
-    },
-    {
-        "departamento": " CESAR",
-        "aliado": "TODO MOTOS VS S.A.S",
-        "punto": "FNB TODO MOTOS VS  MERKAMOTOS COPEY (CES)"
-    },
-    {
-        "departamento": " MAGDALENA",
-        "aliado": "TODO MOTOS VS S.A.S",
-        "punto": "FNB TODO MOTOS  HERO LA QUINTA SM (MAG)"
-    },
-    {
-        "departamento": " ATLANTICO",
-        "aliado": "TODO MOTOS VS S.A.S",
-        "punto": "FNB- TODOMOTOS MOTOPATODOS SOLEDAD LA 18 (ATL)"
-    },
-    {
-        "departamento": " ATLANTICO",
+        "departamento": "ATLANTICO",
         "aliado": "VIAJES Y TURISMO ST S.A.S",
-        "punto": "FNB VIAJES Y TURISMO ST SAS (ATL)"
+        "punto": [
+            "FNB VIAJES Y TURISMO ST SAS (ATL)"
+        ]
+    },
+    {
+        "departamento": "MAGDALENA",
+        "aliado": "ALIANZA SURTIDORA SAS",
+        "punto": [
+            "FNB ALIANZA SURTIDORA CONFCCIONES DE LA 41 (ATL)"
+        ]
+    },
+    {
+        "departamento": "MAGDALENA",
+        "aliado": "INVESAKK LTDA",
+        "punto": [
+            "FNB ¿ F. SAMIR SANTA MARTA (MAG)"
+        ]
+    },
+    {
+        "departamento": "MAGDALENA",
+        "aliado": "MER - K - FACIL S.A.S",
+        "punto": [
+            "FNB - MERKAFACIL AKITUMOTO RODADERO "
+        ]
+    },
+    {
+        "departamento": "MAGDALENA",
+        "aliado": "MOTOCAR COMERCIALIZADORA SAS",
+        "punto": [
+            "FNB MOTOCAR HERO MOTOCAR LA 19 (MAG)"
+        ]
+    },
+    {
+        "departamento": "MAGDALENA",
+        "aliado": "MOTOS Y MOTORES J.D. S.A.S.",
+        "punto": [
+            "FNB MOTOS Y MOTORES  GUAMAL MAGDALENA"
+        ]
+    },
+    {
+        "departamento": "MAGDALENA",
+        "aliado": "PISOS Y ENCHAPES RYL SAS",
+        "punto": [
+            "FNB SANTA MARTA PISOS Y ENCHAPES"
+        ]
+    },
+    {
+        "departamento": "MAGDALENA",
+        "aliado": "SIMPLIFICAR S.A.S.",
+        "punto": [
+            "FNB - SIMPLIFICAR S.A.S"
+        ]
+    },
+    {
+        "departamento": "MAGDALENA",
+        "aliado": "TODO MOTOS VS S.A.S",
+        "punto": [
+            "FNB - TODOMOTOS AKT SANTA MARTA"
+        ]
     }
 ]
